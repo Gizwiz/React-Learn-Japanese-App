@@ -1,0 +1,690 @@
+[
+    {
+        "gojuon": [
+            {
+                "hiragana": "あ",
+                "eng": "a",
+                "timesCorrect": 0,
+                "timesWrong": 0
+            },
+            {
+                "hiragana": "い",
+                "eng": "i",
+                "timesCorrect": 0,
+                "timesWrong": 0
+            },
+            {
+                "hiragana": "う",
+                "eng": "u",
+                "timesCorrect": 0,
+                "timesWrong": 0
+            },
+            {
+                "hiragana": "え",
+                "eng": "e",
+                "timesCorrect": 0,
+                "timesWrong": 0
+            },
+            {
+                "hiragana": "お",
+                "eng": "o",
+                "timesCorrect": 0,
+                "timesWrong": 0
+            },
+            {
+                "hiragana": "か",
+                "eng": "ka",
+                "timesCorrect": 0,
+                "timesWrong": 0
+            },
+            {
+                "hiragana": "き",
+                "eng": "ki",
+                "timesCorrect": 0,
+                "timesWrong": 0
+            },
+            {
+                "hiragana": "く",
+                "eng": "ku",
+                "timesCorrect": 0,
+                "timesWrong": 0
+            },
+            {
+                "hiragana": "け",
+                "eng": "ke",
+                "timesCorrect": 0,
+                "timesWrong": 0
+            },
+            {
+                "hiragana": "こ",
+                "eng": "ko",
+                "timesCorrect": 0,
+                "timesWrong": 0
+            },
+            {
+                "hiragana": "さ",
+                "eng": "sa",
+                "timesCorrect": 0,
+                "timesWrong": 0
+            },
+            {
+                "hiragana": "し",
+                "eng": "shi",
+                "timesCorrect": 0,
+                "timesWrong": 0
+            },
+            {
+                "hiragana": "す",
+                "eng": "su",
+                "timesCorrect": 0,
+                "timesWrong": 0
+            },
+            {
+                "hiragana": "せ",
+                "eng": "se",
+                "timesCorrect": 0,
+                "timesWrong": 0
+            },
+            {
+                "hiragana": "そ",
+                "eng": "so",
+                "timesCorrect": 0,
+                "timesWrong": 0
+            },
+            {
+                "hiragana": "た",
+                "eng": "ta",
+                "timesCorrect": 0,
+                "timesWrong": 0
+            },
+            {
+                "hiragana": "ち",
+                "eng": "chi",
+                "timesCorrect": 0,
+                "timesWrong": 0
+            },
+            {
+                "hiragana": "つ",
+                "eng": "tsu",
+                "timesCorrect": 0,
+                "timesWrong": 0
+            },
+            {
+                "hiragana": "て",
+                "eng": "te",
+                "timesCorrect": 0,
+                "timesWrong": 0
+            },
+            {
+                "hiragana": "と",
+                "eng": "to",
+                "timesCorrect": 0,
+                "timesWrong": 0
+            },
+            {
+                "hiragana": "な",
+                "eng": "na",
+                "timesCorrect": 0,
+                "timesWrong": 0
+            },
+            {
+                "hiragana": "に",
+                "eng": "ni",
+                "timesCorrect": 0,
+                "timesWrong": 0
+            },
+            {
+                "hiragana": "ぬ",
+                "eng": "nu",
+                "timesCorrect": 0,
+                "timesWrong": 0
+            },
+            {
+                "hiragana": "ね",
+                "eng": "ne",
+                "timesCorrect": 0,
+                "timesWrong": 0
+            },
+            {
+                "hiragana": "の",
+                "eng": "no",
+                "timesCorrect": 0,
+                "timesWrong": 0
+            },
+            {
+                "hiragana": "は",
+                "eng": "ha",
+                "timesCorrect": 0,
+                "timesWrong": 0
+            },
+            {
+                "hiragana": "ひ",
+                "eng": "hi",
+                "timesCorrect": 0,
+                "timesWrong": 0
+            },
+            {
+                "hiragana": "ふ",
+                "eng": "fu",
+                "timesCorrect": 0,
+                "timesWrong": 0
+            },
+            {
+                "hiragana": "へ",
+                "eng": "he",
+                "timesCorrect": 0,
+                "timesWrong": 0
+            },
+            {
+                "hiragana": "ほ",
+                "eng": "ho",
+                "timesCorrect": 0,
+                "timesWrong": 0
+            },
+            {
+                "hiragana": "ま",
+                "eng": "ma",
+                "timesCorrect": 0,
+                "timesWrong": 0
+            },
+            {
+                "hiragana": "み",
+                "eng": "mi",
+                "timesCorrect": 0,
+                "timesWrong": 0
+            },
+            {
+                "hiragana": "む",
+                "eng": "mu",
+                "timesCorrect": 0,
+                "timesWrong": 0
+            },
+            {
+                "hiragana": "め",
+                "eng": "me",
+                "timesCorrect": 0,
+                "timesWrong": 0
+            },
+            {
+                "hiragana": "も",
+                "eng": "mo",
+                "timesCorrect": 0,
+                "timesWrong": 0
+            },
+            {
+                "hiragana": "や",
+                "eng": "ya",
+                "timesCorrect": 0,
+                "timesWrong": 0
+            },
+            {
+                "hiragana": "*",
+                "eng": "*",
+                "timesCorrect": 0,
+                "timesWrong": 0
+            },
+            {
+                "hiragana": "ゆ",
+                "eng": "yu",
+                "timesCorrect": 0,
+                "timesWrong": 0
+            },
+            {
+                "hiragana": "*",
+                "eng": "*",
+                "timesCorrect": 0,
+                "timesWrong": 0
+            },
+            {
+                "hiragana": "よ",
+                "eng": "yo",
+                "timesCorrect": 0,
+                "timesWrong": 0
+            },
+            {
+                "hiragana": "ら",
+                "eng": "ra",
+                "timesCorrect": 0,
+                "timesWrong": 0
+            },
+            {
+                "hiragana": "り",
+                "eng": "ri",
+                "timesCorrect": 0,
+                "timesWrong": 0
+            },
+            {
+                "hiragana": "る",
+                "eng": "ru",
+                "timesCorrect": 0,
+                "timesWrong": 0
+            },
+            {
+                "hiragana": "れ",
+                "eng": "re",
+                "timesCorrect": 0,
+                "timesWrong": 0
+            },
+            {
+                "hiragana": "ろ",
+                "eng": "ro",
+                "timesCorrect": 0,
+                "timesWrong": 0
+            },
+            {
+                "hiragana": "わ",
+                "eng": "wa",
+                "timesCorrect": 0,
+                "timesWrong": 0
+            },
+            {
+                "hiragana": "*",
+                "eng": "*",
+                "timesCorrect": 0,
+                "timesWrong": 0
+            },
+            {
+                "hiragana": "*",
+                "eng": "*",
+                "timesCorrect": 0,
+                "timesWrong": 0
+            },
+            {
+                "hiragana": "*",
+                "eng": "*",
+                "timesCorrect": 0,
+                "timesWrong": 0
+            },
+            {
+                "hiragana": "を",
+                "eng": "wo",
+                "timesCorrect": 0,
+                "timesWrong": 0
+            },
+            {
+                "hiragana": "ん",
+                "eng": "n",
+                "timesCorrect": 0,
+                "timesWrong": 0
+            }
+        ]
+    },
+    {
+        "dakoon": [
+            {
+                "hiragana": "が",
+                "eng": "ga",
+                "timesCorrect": 0,
+                "timesWrong": 0
+            },
+            {
+                "hiragana": "ぎ",
+                "eng": "gi",
+                "timesCorrect": 0,
+                "timesWrong": 0
+            },
+            {
+                "hiragana": "ぐ",
+                "eng": "gu",
+                "timesCorrect": 0,
+                "timesWrong": 0
+            },
+            {
+                "hiragana": "げ",
+                "eng": "ge",
+                "timesCorrect": 0,
+                "timesWrong": 0
+            },
+            {
+                "hiragana": "ご",
+                "eng": "go",
+                "timesCorrect": 0,
+                "timesWrong": 0
+            },
+            {
+                "hiragana": "ざ",
+                "eng": "za",
+                "timesCorrect": 0,
+                "timesWrong": 0
+            },
+            {
+                "hiragana": "じ",
+                "eng": "ji",
+                "timesCorrect": 0,
+                "timesWrong": 0
+            },
+            {
+                "hiragana": "ず",
+                "eng": "zu",
+                "timesCorrect": 0,
+                "timesWrong": 0
+            },
+            {
+                "hiragana": "ぜ",
+                "eng": "ze",
+                "timesCorrect": 0,
+                "timesWrong": 0
+            },
+            {
+                "hiragana": "ぞ",
+                "eng": "zo",
+                "timesCorrect": 0,
+                "timesWrong": 0
+            },
+            {
+                "hiragana": "だ",
+                "eng": "da",
+                "timesCorrect": 0,
+                "timesWrong": 0
+            },
+            {
+                "hiragana": "じ",
+                "eng": "ji",
+                "timesCorrect": 0,
+                "timesWrong": 0
+            },
+            {
+                "hiragana": "ず",
+                "eng": "zu",
+                "timesCorrect": 0,
+                "timesWrong": 0
+            },
+            {
+                "hiragana": "で",
+                "eng": "de",
+                "timesCorrect": 0,
+                "timesWrong": 0
+            },
+            {
+                "hiragana": "ど",
+                "eng": "do",
+                "timesCorrect": 0,
+                "timesWrong": 0
+            },
+            {
+                "hiragana": "ば",
+                "eng": "ba",
+                "timesCorrect": 0,
+                "timesWrong": 0
+            },
+            {
+                "hiragana": "び",
+                "eng": "bi",
+                "timesCorrect": 0,
+                "timesWrong": 0
+            },
+            {
+                "hiragana": "ぶ",
+                "eng": "bu",
+                "timesCorrect": 0,
+                "timesWrong": 0
+            },
+            {
+                "hiragana": "べ",
+                "eng": "be",
+                "timesCorrect": 0,
+                "timesWrong": 0
+            },
+            {
+                "hiragana": "ぼ",
+                "eng": "bo",
+                "timesCorrect": 0,
+                "timesWrong": 0
+            }
+        ]
+    },
+    {
+        "yoon": [
+            {
+                "hiragana": "きゃ",
+                "eng": "kya",
+                "timesCorrect": 0,
+                "timesWrong": 0
+            },
+            {
+                "hiragana": "きゅ",
+                "eng": "kyu",
+                "timesCorrect": 0,
+                "timesWrong": 0
+            },
+            {
+                "hiragana": "きょ",
+                "eng": "kyo",
+                "timesCorrect": 0,
+                "timesWrong": 0
+            },
+            {
+                "hiragana": "しゃ",
+                "eng": "sha",
+                "timesCorrect": 0,
+                "timesWrong": 0
+            },
+            {
+                "hiragana": "しゅ",
+                "eng": "shu",
+                "timesCorrect": 0,
+                "timesWrong": 0
+            },
+            {
+                "hiragana": "しょ",
+                "eng": "sho",
+                "timesCorrect": 0,
+                "timesWrong": 0
+            },
+            {
+                "hiragana": "ちゃ",
+                "eng": "cha",
+                "timesCorrect": 0,
+                "timesWrong": 0
+            },
+            {
+                "hiragana": "ちゅ",
+                "eng": "chu",
+                "timesCorrect": 0,
+                "timesWrong": 0
+            },
+            {
+                "hiragana": "ちょ",
+                "eng": "cho",
+                "timesCorrect": 0,
+                "timesWrong": 0
+            },
+            {
+                "hiragana": "にゃ",
+                "eng": "nya",
+                "timesCorrect": 0,
+                "timesWrong": 0
+            },
+            {
+                "hiragana": "にゅ",
+                "eng": "nyu",
+                "timesCorrect": 0,
+                "timesWrong": 0
+            },
+            {
+                "hiragana": "にょ",
+                "eng": "nyo",
+                "timesCorrect": 0,
+                "timesWrong": 0
+            },
+            {
+                "hiragana": "ひゃ",
+                "eng": "hya",
+                "timesCorrect": 0,
+                "timesWrong": 0
+            },
+            {
+                "hiragana": "ひゅ",
+                "eng": "hyu",
+                "timesCorrect": 0,
+                "timesWrong": 0
+            },
+            {
+                "hiragana": "ひょ",
+                "eng": "hyo",
+                "timesCorrect": 0,
+                "timesWrong": 0
+            },
+            {
+                "hiragana": "みゃ",
+                "eng": "mya",
+                "timesCorrect": 0,
+                "timesWrong": 0
+            },
+            {
+                "hiragana": "みゅ",
+                "eng": "myu",
+                "timesCorrect": 0,
+                "timesWrong": 0
+            },
+            {
+                "hiragana": "みょ",
+                "eng": "myo",
+                "timesCorrect": 0,
+                "timesWrong": 0
+            },
+            {
+                "hiragana": "りゃ",
+                "eng": "rya",
+                "timesCorrect": 0,
+                "timesWrong": 0
+            },
+            {
+                "hiragana": "りゅ",
+                "eng": "ryu",
+                "timesCorrect": 0,
+                "timesWrong": 0
+            },
+            {
+                "hiragana": "りょ",
+                "eng": "ryo",
+                "timesCorrect": 0,
+                "timesWrong": 0
+            },
+            {
+                "hiragana": "ぎゃ",
+                "eng": "gya",
+                "timesCorrect": 0,
+                "timesWrong": 0
+            },
+            {
+                "hiragana": "ぎゅ",
+                "eng": "gyu",
+                "timesCorrect": 0,
+                "timesWrong": 0
+            },
+            {
+                "hiragana": "ぎょ",
+                "eng": "gyo",
+                "timesCorrect": 0,
+                "timesWrong": 0
+            },
+            {
+                "hiragana": "じゃ",
+                "eng": "ja",
+                "timesCorrect": 0,
+                "timesWrong": 0
+            },
+            {
+                "hiragana": "じゅ",
+                "eng": "ju",
+                "timesCorrect": 0,
+                "timesWrong": 0
+            },
+            {
+                "hiragana": "じょ",
+                "eng": "jo",
+                "timesCorrect": 0,
+                "timesWrong": 0
+            },
+            {
+                "hiragana": "ざや",
+                "eng": "ja",
+                "timesCorrect": 0,
+                "timesWrong": 0
+            },
+            {
+                "hiragana": "ぢゅ",
+                "eng": "ju",
+                "timesCorrect": 0,
+                "timesWrong": 0
+            },
+            {
+                "hiragana": "ぢょ",
+                "eng": "jo",
+                "timesCorrect": 0,
+                "timesWrong": 0
+            },
+            {
+                "hiragana": "びゃ",
+                "eng": "bya",
+                "timesCorrect": 0,
+                "timesWrong": 0
+            },
+            {
+                "hiragana": "びゅ",
+                "eng": "byu",
+                "timesCorrect": 0,
+                "timesWrong": 0
+            },
+            {
+                "hiragana": "びょ",
+                "eng": "byo",
+                "timesCorrect": 0,
+                "timesWrong": 0
+            },
+            {
+                "hiragana": "ぴあ",
+                "eng": "pya",
+                "timesCorrect": 0,
+                "timesWrong": 0
+            },
+            {
+                "hiragana": "ぴゅ",
+                "eng": "pyu",
+                "timesCorrect": 0,
+                "timesWrong": 0
+            },
+            {
+                "hiragana": "ぴょ",
+                "eng": "pyo",
+                "timesCorrect": 0,
+                "timesWrong": 0
+            }
+        ]
+    },
+    {
+        "hanDokuon": [
+            {
+                "hiragana": "ぱ",
+                "eng": "pa",
+                "timesCorrect": 0,
+                "timesWrong": 0
+            },
+            {
+                "hiragana": "ぴ",
+                "eng": "pi",
+                "timesCorrect": 0,
+                "timesWrong": 0
+            },
+            {
+                "hiragana": "ぷ",
+                "eng": "pu",
+                "timesCorrect": 0,
+                "timesWrong": 0
+            },
+            {
+                "hiragana": "ぺ",
+                "eng": "pe",
+                "timesCorrect": 0,
+                "timesWrong": 0
+            },
+            {
+                "hiragana": "ぽ",
+                "eng": "po",
+                "timesCorrect": 0,
+                "timesWrong": 0
+            }
+        ]
+    }
+]
